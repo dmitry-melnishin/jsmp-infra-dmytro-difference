@@ -1,2 +1,8 @@
 ## v1.0.1
 * Add CHANGELOG.md
+
+## v1.0.2
+* Add jestconfig.json to npmignore
+
+## v1.0.3
+* Add idea to npmignore
