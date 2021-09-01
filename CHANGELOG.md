@@ -11,4 +11,4 @@
 * Fix idea folder path in npmignore file
 
 ## v1.0.5
-*   
+* Move @types/lodash.difference to dependencies
