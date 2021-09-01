@@ -6,3 +6,6 @@
 
 ## v1.0.3
 * Add idea to npmignore
+
+## v1.0.4
+* Fix idea folder path in npmignore file

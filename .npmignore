@@ -1,4 +1,4 @@
-../.idea
+.idea
 src
 tsconfig.json
 jestconfig.json
